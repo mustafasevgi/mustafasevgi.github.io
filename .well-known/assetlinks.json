@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.msegi",
-               "sha256_cert_fingerprints": [""] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.pozitron.bilyoner",
+    "sha256_cert_fingerprints":
+    ["5E:42:4F:C5:2B:79:7E:70:C1:30:53:D2:8D:BE:F8:91:F9:45:07:5F:B3:0B:40:5F:60:D9:DB:41:80:AF:F2:F8"]
+  }
 }]
